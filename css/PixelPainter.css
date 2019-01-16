@@ -1,0 +1,34 @@
+.cell {
+  background: #FFFFFF;
+  border: #EBEBEB 1px solid;
+  width: 10px;
+  height: 10px;
+  margin: 0 auto;
+  margin-top: 0;
+  display: grid;
+  float: left;
+}
+
+.row {
+  display: block;
+  float:left;
+  width:100%;
+}
+
+#pixelPainter {
+  display: inline-grid;
+  border-style: solid;
+}
+
+#clearButton{
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+}
+
+h1{
+  font-family: "Arial";
+}
+
+div{
+  font-family: "Arial";
+}
